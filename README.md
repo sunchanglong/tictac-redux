@@ -1,6 +1,6 @@
 
 # tictac-redux
-implement tictac with redux. Contruast with [Mobx](https://github.com/sunchanglong/tictac-mobx) version
+implement tictac with redux. Contrast with [Mobx](https://github.com/sunchanglong/tictac-mobx) version
 
 # Getting Started with Create React App and Redux
 
